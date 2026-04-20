@@ -1,0 +1,11 @@
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+using Jokes.APP.Models;
+
+namespace Jokes.APP.Data
+{
+    public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : IdentityDbContext(options)
+    {
+        public DbSet<Jokes.APP.Models.Jokes> Jokes { get; set; } = default!;
+    }
+}

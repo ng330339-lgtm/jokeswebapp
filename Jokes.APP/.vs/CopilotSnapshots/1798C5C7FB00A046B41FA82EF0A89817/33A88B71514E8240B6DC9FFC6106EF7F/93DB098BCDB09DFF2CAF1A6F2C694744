@@ -1,0 +1,21 @@
+﻿namespace Jokes.APP.Models
+{
+    public class Joke
+    {
+        public int Id { get; set; }
+
+        public string JokeQuEstion { get; set; }
+
+        public string JokeAnswer { get; set; }
+
+        public Joke() { }
+
+        public Joke(int id, string jokeQuEstion, string jokeAnswer)
+        {
+            Id = id;
+            JokeQuEstion = jokeQuEstion;
+            JokeAnswer = jokeAnswer;
+        }
+
+    }
+}

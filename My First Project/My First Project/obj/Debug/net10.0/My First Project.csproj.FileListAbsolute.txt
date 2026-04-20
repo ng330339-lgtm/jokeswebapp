@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\My First Project\My First Project\bin\Debug\net10.0\My First Project.exe
+C:\Users\HP\source\repos\My First Project\My First Project\bin\Debug\net10.0\My First Project.deps.json
+C:\Users\HP\source\repos\My First Project\My First Project\bin\Debug\net10.0\My First Project.runtimeconfig.json
+C:\Users\HP\source\repos\My First Project\My First Project\bin\Debug\net10.0\My First Project.dll
+C:\Users\HP\source\repos\My First Project\My First Project\bin\Debug\net10.0\My First Project.pdb
+C:\Users\HP\source\repos\My First Project\My First Project\obj\Debug\net10.0\My First Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\My First Project\My First Project\obj\Debug\net10.0\My First Project.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\My First Project\My First Project\obj\Debug\net10.0\My First Project.AssemblyInfo.cs
+C:\Users\HP\source\repos\My First Project\My First Project\obj\Debug\net10.0\My First Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\My First Project\My First Project\obj\Debug\net10.0\My First Project.dll
+C:\Users\HP\source\repos\My First Project\My First Project\obj\Debug\net10.0\refint\My First Project.dll
+C:\Users\HP\source\repos\My First Project\My First Project\obj\Debug\net10.0\My First Project.pdb
+C:\Users\HP\source\repos\My First Project\My First Project\obj\Debug\net10.0\My First Project.genruntimeconfig.cache
+C:\Users\HP\source\repos\My First Project\My First Project\obj\Debug\net10.0\ref\My First Project.dll

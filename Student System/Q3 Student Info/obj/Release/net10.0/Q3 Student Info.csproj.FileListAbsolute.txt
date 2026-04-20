@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Student System\Q3 Student Info\bin\Release\net10.0\Q3 Student Info.exe
+C:\Users\HP\source\repos\Student System\Q3 Student Info\bin\Release\net10.0\Q3 Student Info.deps.json
+C:\Users\HP\source\repos\Student System\Q3 Student Info\bin\Release\net10.0\Q3 Student Info.runtimeconfig.json
+C:\Users\HP\source\repos\Student System\Q3 Student Info\bin\Release\net10.0\Q3 Student Info.dll
+C:\Users\HP\source\repos\Student System\Q3 Student Info\bin\Release\net10.0\Q3 Student Info.pdb
+C:\Users\HP\source\repos\Student System\Q3 Student Info\obj\Release\net10.0\Q3 Student Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Student System\Q3 Student Info\obj\Release\net10.0\Q3 Student Info.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Student System\Q3 Student Info\obj\Release\net10.0\Q3 Student Info.AssemblyInfo.cs
+C:\Users\HP\source\repos\Student System\Q3 Student Info\obj\Release\net10.0\Q3 Student Info.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Student System\Q3 Student Info\obj\Release\net10.0\Q3 Student Info.dll
+C:\Users\HP\source\repos\Student System\Q3 Student Info\obj\Release\net10.0\refint\Q3 Student Info.dll
+C:\Users\HP\source\repos\Student System\Q3 Student Info\obj\Release\net10.0\Q3 Student Info.pdb
+C:\Users\HP\source\repos\Student System\Q3 Student Info\obj\Release\net10.0\Q3 Student Info.genruntimeconfig.cache
+C:\Users\HP\source\repos\Student System\Q3 Student Info\obj\Release\net10.0\ref\Q3 Student Info.dll

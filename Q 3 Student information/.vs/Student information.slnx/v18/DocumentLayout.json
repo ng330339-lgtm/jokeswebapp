@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Q 3 Student information\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF95D26-2EF5-435F-9C9E-A8257584896A}|Sch man\\Sch man.csproj|c:\\users\\hp\\source\\repos\\q 3 student information\\sch man\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF95D26-2EF5-435F-9C9E-A8257584896A}|Sch man\\Sch man.csproj|solutionrelative:sch man\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9955B5-00FE-492B-BAED-A2E0070496AF}|Student information\\Student information.csproj|c:\\users\\hp\\source\\repos\\q 3 student information\\student information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9955B5-00FE-492B-BAED-A2E0070496AF}|Student information\\Student information.csproj|solutionrelative:student information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Q 3 Student information\\Sch man\\Program.cs",
+              "RelativeDocumentMoniker": "Sch man\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Q 3 Student information\\Sch man\\Program.cs",
+              "RelativeToolTip": "Sch man\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T08:42:04.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Q 3 Student information\\Student information\\Program.cs",
+              "RelativeDocumentMoniker": "Student information\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Q 3 Student information\\Student information\\Program.cs",
+              "RelativeToolTip": "Student information\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:05:40.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

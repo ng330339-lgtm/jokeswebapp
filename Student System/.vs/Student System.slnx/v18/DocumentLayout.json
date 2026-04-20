@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Student System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFAE846-6236-988B-7230-E62014AF4C20}|Student System\\Student System.csproj|c:\\users\\hp\\source\\repos\\student system\\student system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFAE846-6236-988B-7230-E62014AF4C20}|Student System\\Student System.csproj|solutionrelative:student system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B647722-0C07-4898-99D2-A184FE270E29}|Question 4\\Question 4.csproj|c:\\users\\hp\\source\\repos\\student system\\question 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B647722-0C07-4898-99D2-A184FE270E29}|Question 4\\Question 4.csproj|solutionrelative:question 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FB0B19-0608-4FA2-A60F-557345A92EE8}|Ques 3\\Ques 3.csproj|c:\\users\\hp\\source\\repos\\student system\\ques 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FB0B19-0608-4FA2-A60F-557345A92EE8}|Ques 3\\Ques 3.csproj|solutionrelative:ques 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4B055E-21D0-6F04-2854-58A5BD85B168}|Question3\\Question2.csproj|c:\\users\\hp\\source\\repos\\student system\\question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4B055E-21D0-6F04-2854-58A5BD85B168}|Question3\\Question2.csproj|solutionrelative:question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Student System\\Question 4\\Program.cs",
+              "RelativeDocumentMoniker": "Question 4\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Student System\\Question 4\\Program.cs",
+              "RelativeToolTip": "Question 4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:28:42.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Student System\\Ques 3\\Program.cs",
+              "RelativeDocumentMoniker": "Ques 3\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Student System\\Ques 3\\Program.cs",
+              "RelativeToolTip": "Ques 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:24:03.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Student System\\Question3\\Program.cs",
+              "RelativeDocumentMoniker": "Question3\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Student System\\Question3\\Program.cs",
+              "RelativeToolTip": "Question3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:27:59.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Student System\\Student System\\Program.cs",
+              "RelativeDocumentMoniker": "Student System\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Student System\\Student System\\Program.cs",
+              "RelativeToolTip": "Student System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:19:03.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Movie Ticket Booking System\Movie Ticket Booking System\bin\Debug\net10.0\MovieBookingApp.exe
+C:\Users\HP\source\repos\Movie Ticket Booking System\Movie Ticket Booking System\bin\Debug\net10.0\MovieBookingApp.deps.json
+C:\Users\HP\source\repos\Movie Ticket Booking System\Movie Ticket Booking System\bin\Debug\net10.0\MovieBookingApp.runtimeconfig.json
+C:\Users\HP\source\repos\Movie Ticket Booking System\Movie Ticket Booking System\bin\Debug\net10.0\MovieBookingApp.dll
+C:\Users\HP\source\repos\Movie Ticket Booking System\Movie Ticket Booking System\bin\Debug\net10.0\MovieBookingApp.pdb
+C:\Users\HP\source\repos\Movie Ticket Booking System\Movie Ticket Booking System\obj\Debug\net10.0\MovieBookingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Movie Ticket Booking System\Movie Ticket Booking System\obj\Debug\net10.0\MovieBookingApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Movie Ticket Booking System\Movie Ticket Booking System\obj\Debug\net10.0\MovieBookingApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\Movie Ticket Booking System\Movie Ticket Booking System\obj\Debug\net10.0\MovieBookingApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Movie Ticket Booking System\Movie Ticket Booking System\obj\Debug\net10.0\MovieBookingApp.dll
+C:\Users\HP\source\repos\Movie Ticket Booking System\Movie Ticket Booking System\obj\Debug\net10.0\refint\MovieBookingApp.dll
+C:\Users\HP\source\repos\Movie Ticket Booking System\Movie Ticket Booking System\obj\Debug\net10.0\MovieBookingApp.pdb
+C:\Users\HP\source\repos\Movie Ticket Booking System\Movie Ticket Booking System\obj\Debug\net10.0\MovieBookingApp.genruntimeconfig.cache
+C:\Users\HP\source\repos\Movie Ticket Booking System\Movie Ticket Booking System\obj\Debug\net10.0\ref\MovieBookingApp.dll

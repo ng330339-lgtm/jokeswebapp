@@ -1,0 +1,22 @@
+Fitness Tracker Data
+---------------------
+Name: Nelson
+Age: 20
+Weight: 60 kg
+Height: 7 m
+BMI: 1.2244897959183674
+Goal: 5.0000000
+Name: Nelson
+Age: 20
+Weight: 40
+Height: 2
+BMI: 10
+Goal: 
+----------------------
+Name: Nelson
+Age: 20
+Weight: 80
+Height: 2
+BMI: 20
+Goal: 30
+----------------------

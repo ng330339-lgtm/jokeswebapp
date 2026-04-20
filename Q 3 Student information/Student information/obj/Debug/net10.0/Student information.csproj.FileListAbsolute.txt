@@ -1,0 +1,28 @@
+C:\Users\HP\source\repos\Student information\Student information\bin\Debug\net10.0\Student information.exe
+C:\Users\HP\source\repos\Student information\Student information\bin\Debug\net10.0\Student information.deps.json
+C:\Users\HP\source\repos\Student information\Student information\bin\Debug\net10.0\Student information.runtimeconfig.json
+C:\Users\HP\source\repos\Student information\Student information\bin\Debug\net10.0\Student information.dll
+C:\Users\HP\source\repos\Student information\Student information\bin\Debug\net10.0\Student information.pdb
+C:\Users\HP\source\repos\Student information\Student information\obj\Debug\net10.0\Student information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Student information\Student information\obj\Debug\net10.0\Student information.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Student information\Student information\obj\Debug\net10.0\Student information.AssemblyInfo.cs
+C:\Users\HP\source\repos\Student information\Student information\obj\Debug\net10.0\Student information.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Student information\Student information\obj\Debug\net10.0\Student information.dll
+C:\Users\HP\source\repos\Student information\Student information\obj\Debug\net10.0\refint\Student information.dll
+C:\Users\HP\source\repos\Student information\Student information\obj\Debug\net10.0\Student information.pdb
+C:\Users\HP\source\repos\Student information\Student information\obj\Debug\net10.0\Student information.genruntimeconfig.cache
+C:\Users\HP\source\repos\Student information\Student information\obj\Debug\net10.0\ref\Student information.dll
+C:\Users\HP\source\repos\Q 3 Student information\Student information\bin\Debug\net10.0\Student information.exe
+C:\Users\HP\source\repos\Q 3 Student information\Student information\bin\Debug\net10.0\Student information.deps.json
+C:\Users\HP\source\repos\Q 3 Student information\Student information\bin\Debug\net10.0\Student information.runtimeconfig.json
+C:\Users\HP\source\repos\Q 3 Student information\Student information\bin\Debug\net10.0\Student information.dll
+C:\Users\HP\source\repos\Q 3 Student information\Student information\bin\Debug\net10.0\Student information.pdb
+C:\Users\HP\source\repos\Q 3 Student information\Student information\obj\Debug\net10.0\Student information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Q 3 Student information\Student information\obj\Debug\net10.0\Student information.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Q 3 Student information\Student information\obj\Debug\net10.0\Student information.AssemblyInfo.cs
+C:\Users\HP\source\repos\Q 3 Student information\Student information\obj\Debug\net10.0\Student information.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Q 3 Student information\Student information\obj\Debug\net10.0\Student information.dll
+C:\Users\HP\source\repos\Q 3 Student information\Student information\obj\Debug\net10.0\refint\Student information.dll
+C:\Users\HP\source\repos\Q 3 Student information\Student information\obj\Debug\net10.0\Student information.pdb
+C:\Users\HP\source\repos\Q 3 Student information\Student information\obj\Debug\net10.0\Student information.genruntimeconfig.cache
+C:\Users\HP\source\repos\Q 3 Student information\Student information\obj\Debug\net10.0\ref\Student information.dll

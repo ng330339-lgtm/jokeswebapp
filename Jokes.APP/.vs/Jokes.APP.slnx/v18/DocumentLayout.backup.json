@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Jokes.APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1380926C-CB16-934F-6853-0D5651006526}|Jokes.APP\\Jokes.APP.csproj|c:\\users\\hp\\source\\repos\\jokes.app\\jokes.app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1380926C-CB16-934F-6853-0D5651006526}|Jokes.APP\\Jokes.APP.csproj|solutionrelative:jokes.app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1380926C-CB16-934F-6853-0D5651006526}|Jokes.APP\\Jokes.APP.csproj|c:\\users\\hp\\source\\repos\\jokes.app\\jokes.app\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1380926C-CB16-934F-6853-0D5651006526}|Jokes.APP\\Jokes.APP.csproj|solutionrelative:jokes.app\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1380926C-CB16-934F-6853-0D5651006526}|Jokes.APP\\Jokes.APP.csproj|c:\\users\\hp\\source\\repos\\jokes.app\\jokes.app\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1380926C-CB16-934F-6853-0D5651006526}|Jokes.APP\\Jokes.APP.csproj|solutionrelative:jokes.app\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1380926C-CB16-934F-6853-0D5651006526}|Jokes.APP\\Jokes.APP.csproj|c:\\users\\hp\\source\\repos\\jokes.app\\jokes.app\\models\\jokes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1380926C-CB16-934F-6853-0D5651006526}|Jokes.APP\\Jokes.APP.csproj|solutionrelative:jokes.app\\models\\jokes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1380926C-CB16-934F-6853-0D5651006526}|Jokes.APP\\Jokes.APP.csproj|c:\\users\\hp\\source\\repos\\jokes.app\\jokes.app\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1380926C-CB16-934F-6853-0D5651006526}|Jokes.APP\\Jokes.APP.csproj|solutionrelative:jokes.app\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1380926C-CB16-934F-6853-0D5651006526}|Jokes.APP\\Jokes.APP.csproj|c:\\users\\hp\\source\\repos\\jokes.app\\jokes.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1380926C-CB16-934F-6853-0D5651006526}|Jokes.APP\\Jokes.APP.csproj|solutionrelative:jokes.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1380926C-CB16-934F-6853-0D5651006526}|Jokes.APP\\Jokes.APP.csproj|c:\\users\\hp\\source\\repos\\jokes.app\\jokes.app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1380926C-CB16-934F-6853-0D5651006526}|Jokes.APP\\Jokes.APP.csproj|solutionrelative:jokes.app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Jokes.APP\\Jokes.APP\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Jokes.APP\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Jokes.APP\\Jokes.APP\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Jokes.APP\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T10:14:25.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JokesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Jokes.APP\\Jokes.APP\\Controllers\\JokesController.cs",
+              "RelativeDocumentMoniker": "Jokes.APP\\Controllers\\JokesController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Jokes.APP\\Jokes.APP\\Controllers\\JokesController.cs",
+              "RelativeToolTip": "Jokes.APP\\Controllers\\JokesController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T10:07:30.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Jokes.APP\\Jokes.APP\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Jokes.APP\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Jokes.APP\\Jokes.APP\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Jokes.APP\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:53:24.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jokes.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Jokes.APP\\Jokes.APP\\Models\\Jokes.cs",
+              "RelativeDocumentMoniker": "Jokes.APP\\Models\\Jokes.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Jokes.APP\\Jokes.APP\\Models\\Jokes.cs",
+              "RelativeToolTip": "Jokes.APP\\Models\\Jokes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:02:51.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Jokes.APP\\Jokes.APP\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Jokes.APP\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Jokes.APP\\Jokes.APP\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Jokes.APP\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T07:24:30.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Jokes.APP\\Jokes.APP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Jokes.APP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Jokes.APP\\Jokes.APP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Jokes.APP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T07:19:14.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Jokes.APP\\Jokes.APP\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Jokes.APP\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Jokes.APP\\Jokes.APP\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Jokes.APP\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-30T07:07:25.752Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

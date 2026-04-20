@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Q 3 Student information\Sch man\bin\Debug\net10.0\Sch man.exe
+C:\Users\HP\source\repos\Q 3 Student information\Sch man\bin\Debug\net10.0\Sch man.deps.json
+C:\Users\HP\source\repos\Q 3 Student information\Sch man\bin\Debug\net10.0\Sch man.runtimeconfig.json
+C:\Users\HP\source\repos\Q 3 Student information\Sch man\bin\Debug\net10.0\Sch man.dll
+C:\Users\HP\source\repos\Q 3 Student information\Sch man\bin\Debug\net10.0\Sch man.pdb
+C:\Users\HP\source\repos\Q 3 Student information\Sch man\obj\Debug\net10.0\Sch man.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Q 3 Student information\Sch man\obj\Debug\net10.0\Sch man.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Q 3 Student information\Sch man\obj\Debug\net10.0\Sch man.AssemblyInfo.cs
+C:\Users\HP\source\repos\Q 3 Student information\Sch man\obj\Debug\net10.0\Sch man.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Q 3 Student information\Sch man\obj\Debug\net10.0\Sch man.dll
+C:\Users\HP\source\repos\Q 3 Student information\Sch man\obj\Debug\net10.0\refint\Sch man.dll
+C:\Users\HP\source\repos\Q 3 Student information\Sch man\obj\Debug\net10.0\Sch man.pdb
+C:\Users\HP\source\repos\Q 3 Student information\Sch man\obj\Debug\net10.0\Sch man.genruntimeconfig.cache
+C:\Users\HP\source\repos\Q 3 Student information\Sch man\obj\Debug\net10.0\ref\Sch man.dll

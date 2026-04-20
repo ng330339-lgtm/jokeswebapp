@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Q1 Student Details\Q1 Student Details\bin\Debug\net10.0\Q1 Student Details..exe
+C:\Users\HP\source\repos\Q1 Student Details\Q1 Student Details\bin\Debug\net10.0\Q1 Student Details..deps.json
+C:\Users\HP\source\repos\Q1 Student Details\Q1 Student Details\bin\Debug\net10.0\Q1 Student Details..runtimeconfig.json
+C:\Users\HP\source\repos\Q1 Student Details\Q1 Student Details\bin\Debug\net10.0\Q1 Student Details..dll
+C:\Users\HP\source\repos\Q1 Student Details\Q1 Student Details\bin\Debug\net10.0\Q1 Student Details..pdb
+C:\Users\HP\source\repos\Q1 Student Details\Q1 Student Details\obj\Debug\net10.0\Q1 Student Details..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Q1 Student Details\Q1 Student Details\obj\Debug\net10.0\Q1 Student Details..AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Q1 Student Details\Q1 Student Details\obj\Debug\net10.0\Q1 Student Details..AssemblyInfo.cs
+C:\Users\HP\source\repos\Q1 Student Details\Q1 Student Details\obj\Debug\net10.0\Q1 Student Details..csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Q1 Student Details\Q1 Student Details\obj\Debug\net10.0\Q1 Student Details..dll
+C:\Users\HP\source\repos\Q1 Student Details\Q1 Student Details\obj\Debug\net10.0\refint\Q1 Student Details..dll
+C:\Users\HP\source\repos\Q1 Student Details\Q1 Student Details\obj\Debug\net10.0\Q1 Student Details..pdb
+C:\Users\HP\source\repos\Q1 Student Details\Q1 Student Details\obj\Debug\net10.0\Q1 Student Details..genruntimeconfig.cache
+C:\Users\HP\source\repos\Q1 Student Details\Q1 Student Details\obj\Debug\net10.0\ref\Q1 Student Details..dll

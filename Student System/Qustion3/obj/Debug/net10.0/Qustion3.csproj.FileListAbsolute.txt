@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Student System\Qustion3\bin\Debug\net10.0\Qustion3.exe
+C:\Users\HP\source\repos\Student System\Qustion3\bin\Debug\net10.0\Qustion3.deps.json
+C:\Users\HP\source\repos\Student System\Qustion3\bin\Debug\net10.0\Qustion3.runtimeconfig.json
+C:\Users\HP\source\repos\Student System\Qustion3\bin\Debug\net10.0\Qustion3.dll
+C:\Users\HP\source\repos\Student System\Qustion3\bin\Debug\net10.0\Qustion3.pdb
+C:\Users\HP\source\repos\Student System\Qustion3\obj\Debug\net10.0\Qustion3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Student System\Qustion3\obj\Debug\net10.0\Qustion3.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Student System\Qustion3\obj\Debug\net10.0\Qustion3.AssemblyInfo.cs
+C:\Users\HP\source\repos\Student System\Qustion3\obj\Debug\net10.0\Qustion3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Student System\Qustion3\obj\Debug\net10.0\Qustion3.dll
+C:\Users\HP\source\repos\Student System\Qustion3\obj\Debug\net10.0\refint\Qustion3.dll
+C:\Users\HP\source\repos\Student System\Qustion3\obj\Debug\net10.0\Qustion3.pdb
+C:\Users\HP\source\repos\Student System\Qustion3\obj\Debug\net10.0\Qustion3.genruntimeconfig.cache
+C:\Users\HP\source\repos\Student System\Qustion3\obj\Debug\net10.0\ref\Qustion3.dll

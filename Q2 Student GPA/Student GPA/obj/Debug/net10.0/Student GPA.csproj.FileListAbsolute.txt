@@ -1,0 +1,28 @@
+C:\Users\HP\source\repos\Student GPA\Student GPA\bin\Debug\net10.0\Student GPA.exe
+C:\Users\HP\source\repos\Student GPA\Student GPA\bin\Debug\net10.0\Student GPA.deps.json
+C:\Users\HP\source\repos\Student GPA\Student GPA\bin\Debug\net10.0\Student GPA.runtimeconfig.json
+C:\Users\HP\source\repos\Student GPA\Student GPA\bin\Debug\net10.0\Student GPA.dll
+C:\Users\HP\source\repos\Student GPA\Student GPA\bin\Debug\net10.0\Student GPA.pdb
+C:\Users\HP\source\repos\Student GPA\Student GPA\obj\Debug\net10.0\Student GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Student GPA\Student GPA\obj\Debug\net10.0\Student GPA.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Student GPA\Student GPA\obj\Debug\net10.0\Student GPA.AssemblyInfo.cs
+C:\Users\HP\source\repos\Student GPA\Student GPA\obj\Debug\net10.0\Student GPA.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Student GPA\Student GPA\obj\Debug\net10.0\Student GPA.dll
+C:\Users\HP\source\repos\Student GPA\Student GPA\obj\Debug\net10.0\refint\Student GPA.dll
+C:\Users\HP\source\repos\Student GPA\Student GPA\obj\Debug\net10.0\Student GPA.pdb
+C:\Users\HP\source\repos\Student GPA\Student GPA\obj\Debug\net10.0\Student GPA.genruntimeconfig.cache
+C:\Users\HP\source\repos\Student GPA\Student GPA\obj\Debug\net10.0\ref\Student GPA.dll
+C:\Users\HP\source\repos\Q2 Student GPA\Student GPA\bin\Debug\net10.0\Student GPA.exe
+C:\Users\HP\source\repos\Q2 Student GPA\Student GPA\bin\Debug\net10.0\Student GPA.deps.json
+C:\Users\HP\source\repos\Q2 Student GPA\Student GPA\bin\Debug\net10.0\Student GPA.runtimeconfig.json
+C:\Users\HP\source\repos\Q2 Student GPA\Student GPA\bin\Debug\net10.0\Student GPA.dll
+C:\Users\HP\source\repos\Q2 Student GPA\Student GPA\bin\Debug\net10.0\Student GPA.pdb
+C:\Users\HP\source\repos\Q2 Student GPA\Student GPA\obj\Debug\net10.0\Student GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Q2 Student GPA\Student GPA\obj\Debug\net10.0\Student GPA.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Q2 Student GPA\Student GPA\obj\Debug\net10.0\Student GPA.AssemblyInfo.cs
+C:\Users\HP\source\repos\Q2 Student GPA\Student GPA\obj\Debug\net10.0\Student GPA.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Q2 Student GPA\Student GPA\obj\Debug\net10.0\Student GPA.dll
+C:\Users\HP\source\repos\Q2 Student GPA\Student GPA\obj\Debug\net10.0\refint\Student GPA.dll
+C:\Users\HP\source\repos\Q2 Student GPA\Student GPA\obj\Debug\net10.0\Student GPA.pdb
+C:\Users\HP\source\repos\Q2 Student GPA\Student GPA\obj\Debug\net10.0\Student GPA.genruntimeconfig.cache
+C:\Users\HP\source\repos\Q2 Student GPA\Student GPA\obj\Debug\net10.0\ref\Student GPA.dll
